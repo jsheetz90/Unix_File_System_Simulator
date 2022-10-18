@@ -1,4 +1,4 @@
-# LinuxFileSystemSimulator
+# Unix File System Simulator
 
 Download the code and run it by running `main.py` 
 
